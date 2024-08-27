@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.AssemblyInfo.cs
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.sourcelink.json
+D:\Cosolaptrinh\baitap3\bin\Debug\net8.0\baitap3.exe
+D:\Cosolaptrinh\baitap3\bin\Debug\net8.0\baitap3.deps.json
+D:\Cosolaptrinh\baitap3\bin\Debug\net8.0\baitap3.runtimeconfig.json
+D:\Cosolaptrinh\baitap3\bin\Debug\net8.0\baitap3.dll
+D:\Cosolaptrinh\baitap3\bin\Debug\net8.0\baitap3.pdb
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.dll
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\refint\baitap3.dll
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.pdb
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\baitap3.genruntimeconfig.cache
+D:\Cosolaptrinh\baitap3\obj\Debug\net8.0\ref\baitap3.dll
