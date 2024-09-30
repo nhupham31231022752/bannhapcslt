@@ -1,0 +1,15 @@
+D:\Cosolaptrinh\luyentap\bin\Debug\net8.0\luyentap.exe
+D:\Cosolaptrinh\luyentap\bin\Debug\net8.0\luyentap.deps.json
+D:\Cosolaptrinh\luyentap\bin\Debug\net8.0\luyentap.runtimeconfig.json
+D:\Cosolaptrinh\luyentap\bin\Debug\net8.0\luyentap.dll
+D:\Cosolaptrinh\luyentap\bin\Debug\net8.0\luyentap.pdb
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.AssemblyInfoInputs.cache
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.AssemblyInfo.cs
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.csproj.CoreCompileInputs.cache
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.sourcelink.json
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.dll
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\refint\luyentap.dll
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.pdb
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\luyentap.genruntimeconfig.cache
+D:\Cosolaptrinh\luyentap\obj\Debug\net8.0\ref\luyentap.dll
