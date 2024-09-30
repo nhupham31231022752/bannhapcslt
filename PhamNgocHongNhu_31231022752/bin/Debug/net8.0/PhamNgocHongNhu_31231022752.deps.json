@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PhamNgocHongNhu_31231022752/1.0.0": {
+        "runtime": {
+          "PhamNgocHongNhu_31231022752.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhamNgocHongNhu_31231022752/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
